@@ -1,0 +1,14 @@
+# Web UI
+streamlit>=1.32.0
+
+# Google Gemini API (New SDK)
+google-genai>=0.3.0
+
+# Data Validation & Structured Output
+pydantic>=2.5.0
+
+# Environment Variable Management
+python-dotenv>=1.0.0
+
+# Data Manipulation & Feedback Storage
+pandas>=2.0.0
