@@ -1,0 +1,22 @@
+# Security / API Keys
+.env
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Mac OS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local Database / Feedback logs (Optional: keeps your repo clean of local testing data)
+data/user_feedback.csv
