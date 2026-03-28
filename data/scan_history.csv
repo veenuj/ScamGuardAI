@@ -1,0 +1,6 @@
+timestamp,message,classification,risk_score,scam_type
+2026-03-28 13:24:35,Urgent: Your Axis Bank KYC is expiring today. Update PAN via http://bit.ly/fake-update to avoid account block.,Scam,10,Phishing
+2026-03-28 13:24:58,"प्रिय ग्राहक, आपका बिजली कनेक्शन रात 9 बजे काट दिया जाएगा। तुरंत 9876543210 पर कॉल करें।",Scam,9,Fear Tactics
+2026-03-28 13:28:51,Urgent: Your Axis Bank KYC is expiring today. Update PAN via http://bit.ly/fake-update to avoid account block.,Scam,10,Phishing
+2026-03-28 13:36:45,Urgent: Your Axis Bank KYC is expiring today. Update PAN via http://bit.ly/fake-update to avoid account block.,Scam,10,Phishing
+2026-03-28 13:39:46,Urgent: Your Axis Bank KYC is expiring today. Update PAN via http://bit.ly/fake-update to avoid account block.,Scam,9,Phishing
